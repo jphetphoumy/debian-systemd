@@ -1,4 +1,4 @@
 # debian-systemd 
 
-![](https://github.com/actions/jphetphoumy/workflow/Docker%20Image%20CI.svg)
+![](https://github.com/jphetphoumy/debian-systemd/workflows/Docker%20Image%20CI/badge.svg)
 Docker debian with systemd for Molecule
